@@ -20,7 +20,7 @@ spec:
       labels:
         app: portal
     spec:
-      containers:git 
+      containers:
       - env:
         - name: DUMMY
           value: "v2"
