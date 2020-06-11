@@ -15,7 +15,7 @@ data:
   APPDYNAMICS_NETVIZ_AGENT_PORT: "3892"
   RETRY: 10s
   TIMEOUT: 300s
-  ROOKOUT_LABELS: "env:<firstname-lastname>-se-days"
+  ROOKOUT_LABELS: "env:donald-cacsson-se-days"
   ROOKOUT_LOG_TO_STDERR: "True"
   ROOKOUT_DEBUG: "1"
   ROOKOUT_COMMIT: "True"
