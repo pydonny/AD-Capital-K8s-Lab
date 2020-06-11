@@ -3,5 +3,6 @@ type: APPLICATION_MANIFEST
 gitFileConfig:
   branch: prod-adcapital
   connectorName: GitHub - AD Cap - K8S
+  filePath: Rookout
   useBranch: true
 storeType: Remote
